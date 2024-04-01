@@ -31,14 +31,24 @@ public class IfElseTest {
             System.out.println(grade = 'C');
         } else if (score <= 58 && score >= 39) {
             System.out.println(grade = 'D');
-        }else{
+        } else {
             System.out.println("F");
         }
         return score;
     }
 
+    public static int daily() {
+        int hoursOfDay = 9;
+
+        if(hoursOfDay < 11) System.out.println("Evening......");
+        else if (hoursOfDay < 5) System.out.println("Morning.......");
+        else System.out.println("Noon........");
+        return hoursOfDay;
+    }
+
     public static void main(String[] args) {
         startCar();
         getScore();
+        daily();
     }
 }
