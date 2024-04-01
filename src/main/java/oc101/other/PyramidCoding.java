@@ -3,9 +3,9 @@
  * Date : 3/28/2024
  * Time : 2:21 PM
  */
-package oc101.controlFlow;
+package oc101.other;
 
-public class IfElseStatments {
+public class PyramidCoding {
     public static void main(String[] args) throws InterruptedException {
         int row  = 10;
 
