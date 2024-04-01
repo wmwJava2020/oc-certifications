@@ -13,7 +13,7 @@ public class SwitchStatement {
         switch (locations){
 
             case 0 :
-                              System.out.println(               "            ምዕራብ..........");
+                              System.out.println(               "            ምዕራብ.........");
                 //break;
             case 1 :
                               System.out.println(              "            ምስራቅ...........");
