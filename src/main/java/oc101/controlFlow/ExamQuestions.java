@@ -61,6 +61,6 @@ public class ExamQuestions {
             case 'F':
                 System.out.print("NG");
         }
-
+       //Note grtgood will print 1. bc of keyword BREAK missing bn two lines
     }
 }
