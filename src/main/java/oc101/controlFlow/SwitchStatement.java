@@ -10,7 +10,7 @@ import java.util.Random;
 public class SwitchStatement {
     public static void main(String[] args) {
 
-        int locations = 2;
+        int locations = 1;
         System.out.println("Print directions of the globe.....");
         switch (locations){
 
@@ -19,7 +19,7 @@ public class SwitchStatement {
                 break;
             case 1 :
                 System.out.println("ESAT...........");
-                break;
+                //break;
             case 2 :
                 System.out.println("SOUTH...........");
                 break;
