@@ -1,11 +1,9 @@
 /**
- * Created by:AIDA
+ * Created by:Wondafrash
  * Date : 4/1/2024
  * Time : 4:22 PM
  */
 package oc101.controlFlow;
-
-import java.time.LocalDateTime;
 
 public class ForLoop {
     public static void main(String[] args) {
