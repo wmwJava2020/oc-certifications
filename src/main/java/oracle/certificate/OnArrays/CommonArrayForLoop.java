@@ -13,11 +13,11 @@ public class CommonArrayForLoop {
         System.out.println(r);
 
         for(int i  = 2 ; i < arr.length; i++){ // the first two element will skip, the loop start from index number 2
-            //System.out.println(arr[i]);
+            System.out.println(arr[i]);
         }
 
         for(int i = 0; i <= arr.length ; i++){ // this will cause exception out of bound index error, or have to make length - 1
-            //System.out.println(arr[i]);
+            System.out.println(arr[i]);
         }
 
         String[] name = {"Jack", "Luke","Jack","Alex","Tom"};
