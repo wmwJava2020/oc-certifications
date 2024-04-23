@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 9:05 AM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.OnSuper;
 
 public class Plane {
     private String destin;

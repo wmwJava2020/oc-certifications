@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 10:20 AM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.constractors;
 
 public class ThisMethodThisConstractor {
 
