@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 1:53 PM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.OnSuper;
 
 public class ImmutableClasses {
     // to make a class immutable

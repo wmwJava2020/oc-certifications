@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 12:53 PM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.encapsulation;
 
 import java.util.ArrayList;
 import java.util.Collections;

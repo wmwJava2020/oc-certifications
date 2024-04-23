@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 10:43 AM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.other;
 
 class Person {
     public int count = 0;
