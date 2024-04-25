@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 8:17 AM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.constractors;
 
 
 class Vehicle {

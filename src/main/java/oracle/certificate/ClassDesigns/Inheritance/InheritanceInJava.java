@@ -3,7 +3,7 @@
  * Date : 4/16/2024
  * Time : 2:20 PM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.Inheritance;
 
 class Vehicles {
     /*private int mile;

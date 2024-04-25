@@ -3,7 +3,9 @@
  * Date : 4/16/2024
  * Time : 9:02 AM
  */
-package oracle.certificate.ClassDesigns;
+package oracle.certificate.ClassDesigns.constractors;
+
+import oracle.certificate.ClassDesigns.OnSuper.Plane;
 
 public class ConstractorChaining {
     public static void main(String[] args) {
