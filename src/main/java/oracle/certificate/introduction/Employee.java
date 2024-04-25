@@ -1,4 +1,4 @@
-package oracle.certificate.intor;
+package oracle.certificate.introduction;
 
 
 import java.util.Date;

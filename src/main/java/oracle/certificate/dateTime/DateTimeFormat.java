@@ -1,5 +1,5 @@
 /**
- * Created by:Wondafrash
+ * Created by:Wondafrash,Wondafrash
  * Date : 4/25/2024
  * Time : 10:36 AM
  */
@@ -36,7 +36,7 @@ public class DateTimeFormat {
         //System.out.println("SHORT  : "+short1.format(time)); // format 'LocalizedDate' to 'time' UnsupportedTemporalTypeException
 
         DateTimeFormatter formatter = DateTimeFormatter.ofPattern("MM-dd-YYY hh : mm.ss:ss");  // if MM=09 ; MMM=sep ; MMMM=September ; YY 24 ; YYY=2024
-        String formatted = formatter.format(dateTime); // if MM=09 ; MMM=sep ; MMMM=September ; YY 24 ; YYY=2024; no exception for 'date'
+        String formatted = formatter.format(dateTime); // if MM=09 ; MMM=sep ; MMMM=September ; YY 24 ; YYY=2024; else exception for 'date'
         System.out.println(formatted);
 
         System.out.println();
