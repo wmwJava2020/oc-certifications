@@ -17,7 +17,7 @@ public class SampleQuestionsList {
         ls.add("One");
         ls.add("Two");
 
-        //ls.clear();
+        ls.clear();
         System.out.println("[]= "+ls);
         System.out.println(ls.contains(new String("Two")));
         System.out.println(ls.indexOf("Two"));
