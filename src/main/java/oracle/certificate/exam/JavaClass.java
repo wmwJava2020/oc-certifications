@@ -1,5 +1,5 @@
 /**
- * Created by:AIDA
+ * Created by:Wondafrash
  * Date : 5/16/2024
  * Time : 4:14 PM
  */
@@ -27,8 +27,10 @@ public class JavaClass {
 
     public static void main(String[] args) {
         JavaClass c = new JavaClass();
+
         String STRING = "String";
         int _abc = 4;
+
         //System.out.println(_abc +" "+ STRING);
         System.out.println(c.x);
     }
