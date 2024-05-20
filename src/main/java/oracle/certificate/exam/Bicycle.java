@@ -68,7 +68,8 @@ public class Bicycle {
 
        // bs.name;
 
-        double df = 1_00.000_00;
+        int v = new Integer(1_000);
+        double df = new Double(1_000_000.00);
     }
 
     public String getName(String name) {

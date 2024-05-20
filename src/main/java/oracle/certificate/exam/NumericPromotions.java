@@ -28,7 +28,7 @@ public class NumericPromotions {
 
         // integrals are a byte,short,int and long;
         // floating-point data are double and floats
-        //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
+        //++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++//
 
         // RULE - THREE if integrals and floatings, the output is floating-points
         int Public = 5;
