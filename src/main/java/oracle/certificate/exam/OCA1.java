@@ -23,10 +23,32 @@ public class OCA1 {
     }
 
     public String color;
+
+    static double dbl = 23d;
+    static Float flt = 2.3f;
     public static void main(String[] args) {
         OCA1 oca = new OCA1();
         int tod =3,tmr =4;
         System.out.println(tod + oca.tmr + oca.yst);
+
+        //int Integer = 0;
+        //Integer int = 0;
+
+        Double d1 = dbl;  // converting a primitive data type into an object wrapper type - boxing
+        d1.doubleValue(); // Unnecessary unboxing
+        System.out.println(d1);
+
+        float f0 = flt; // converting an object wrapper type back to its corresponding primitive data type.Integer back to an int.
+
+        Integer integer = new Integer(4);
+        System.out.print(integer.byteValue());
+        System.out.print(" - ");
+        Integer integer0 = new Integer(4);
+        System.out.print(integer0.byteValue());
+
+        String cat, dog = "Animals";
+        Byte b;
+        char c;
 
     }
 }
